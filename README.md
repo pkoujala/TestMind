@@ -1,2 +1,2 @@
 # TestMind
-for testing changes
+for testing
